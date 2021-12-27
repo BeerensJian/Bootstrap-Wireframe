@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(200, 213, 219);
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.mainImage {
+    background-color: rgb(190, 49, 49);
+    background-image: url(830-1600x900.jpg);
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    font-family: 'Merriweather', serif;
+}
+
+.mainImage {
+    color: white;
+    text-shadow: 2px 1px 5px grey;
+}
+
+.btn-light {
+    color: rgb(105, 105, 105);
+}
